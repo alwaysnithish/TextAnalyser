@@ -1,0 +1,6 @@
+Django==5.1.4
+gunicorn==23.0.0
+whitenoise==6.9.0
+psycopg2-binary==2.9.9  # Needed for PostgreSQL (if using PostgreSQL on Render)
+sqlparse==0.5.3
+requests==2.32.3
