@@ -1,1 +1,1 @@
-web: gunicorn TextAnalyser.wsgi --bind 0.0.0.0:$PORT
+web: gunicorn textanalyser.wsgi --bind 0.0.0.0:$PORT
